@@ -1,0 +1,7 @@
+/.vs/Wallet/v16/TestStore/0/*.testlog
+/.vs/Wallet/v16/*.suo
+/.vs/Wallet/v16/TestStore/0
+*/bin
+*/obj
+*/.vs
+/obj
